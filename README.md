@@ -35,3 +35,5 @@ The following **optional** features are implemented:
   * Consider using animations or transitions to make the user experience more engaging.
 
 ## Video Walkthrough
+
+![alt-text](MemoryGame.gif)
